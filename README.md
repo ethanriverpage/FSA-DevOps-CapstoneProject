@@ -3,6 +3,8 @@
 This repository contains the code for building, testing, and deploying a web-based GameBoy emulator, including developing a demonstration GameBoy game using GBDK.
 > This was done as part of an assessment for Fullstack Academy. The following information is hypothetical only for the purposes of this assessment.
 
+This project depends on [ethanriverpage/FSA-DevOps-CapstoneCodeBase](https://github.com/ethanriverpage/FSA-DevOps-CapstoneCodeBase) for proper deployment.
+
 ### Project Details:
 This project is being developed by the FSA Capstone Team for Nintendo European Research & Development SAS (NERD). The purpose of the project is to develop a browser-based Nintendo Game Boy emulator that will enable users to play classic games through a web browser, and allow Nintendo to monetize their retro games.
 
