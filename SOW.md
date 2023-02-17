@@ -1,0 +1,10 @@
+Threat Model for Browser-based Nintendo Game Boy Emulator
+=========================================================
+
+| Threat | Description | Mitigation |
+| --- | --- | --- |
+| Unauthorized Access | Attackers may try to gain unauthorized access to the system, resulting in a potential data breach, theft of intellectual property, or other malicious activities. | The FSA Capstone Team will implement authentication and access control mechanisms to ensure that only authorized individuals have access to the system. Password policies and multi-factor authentication can be used to enhance the security of the system. |
+| Injection Attacks | Attackers may try to inject malicious code or commands into the emulator, resulting in data manipulation, unauthorized access, or denial of service attacks. | The FSA Capstone Team will use input validation and sanitization techniques to prevent injection attacks. Security-focused coding practices and frequent vulnerability scans can also be used to identify and address potential issues. |
+| Denial of Service | Attackers may try to launch a distributed denial of service (DDoS) attack against the emulator, resulting in the unavailability of the system. | The FSA Capstone Team will use AWS security, monitoring, and metrics to provide protection against attackers. |
+| Data Breach | Attackers may try to steal or compromise sensitive information, including user data or game code. | The FSA Capstone Team will use encryption and secure communication protocols to protect sensitive information. They will also implement data backup and disaster recovery procedures to ensure data can be restored in the event of a breach. |
+| Malware Infections | Attackers may try to infect the emulator with malware, resulting in the unauthorized execution of code, the theft of user data, or other malicious activities. | The FSA Capstone Team will use anti-malware software and sandboxing techniques to detect and prevent malware infections. Regular system scans and updates can also help to identify and address potential vulnerabilities. |
