@@ -1,13 +1,21 @@
-# GameBoy Emulator CI/CD Pipeline
+# Proof-of-Concept Web-based GameBoy Emulator deployed using GitHub Actions to AWS Amplify
 
-This repository contains the code for building, testing, and deploying a web-based GameBoy emulator using a CI/CD pipeline. The pipeline is designed to automate the process of building and deploying the emulator, making it easier to maintain and update.
+This repository contains the code for building, testing, and deploying a web-based GameBoy emulator, including developing a demonstration GameBoy game using GBDK.
+> This was done as part of an assessment for Fullstack Academy. The following information is hypothetical only for the purposes of this assessment.
 
-This emulator is based on "binjgb," created by binji, and uses GBDK for the development tools.
+### Project Details:
+This project is being developed by the FSA Capstone Team for Nintendo European Research & Development SAS (NERD). The purpose of the project is to develop a browser-based Nintendo Game Boy emulator that will enable users to play classic games through a web browser, and allow Nintendo to monetize their retro games.
 
-Credit for the original emulator goes to:
+The team comprises four members: Ethan Page, Alexis Collier, Haider Shaghati, and Donald Hare.
 
-- [binji](https://github.com/binji) for creating "binjgb" 
+### [Statement of Work](https://github.com/ethanriverpage/FSA-DevOps-CapstoneProject/blob/development/SOW.md)
 
-Credit for the development tools goes to:
+### [Threat Modeling](https://github.com/ethanriverpage/FSA-DevOps-CapstoneProject/blob/development/THREAT.md)
 
-- [GBDK](http://gbdk.sourceforge.net/)
+### Credits:
+
+* [binji](https://github.com/binji) for creating the emulator "binjgb"
+* [GBDK](http://gbdk.sourceforge.net/) for creating the necessary development tools
+* [AWS CLI](https://aws.amazon.com/cli/) for deployment to S3 & Amplify
+* [GitHub Actions](https://github.com/features/actions) for CI/CD pipeline
+* [GitHub Actions Secrets](https://docs.github.com/en/rest/actions/secrets) for storing environment variables
