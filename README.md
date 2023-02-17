@@ -20,6 +20,12 @@ The team comprises four members: Ethan Page, Alexis Collier, Haider Shaghati, an
 ![ss1](https://user-images.githubusercontent.com/88117372/219718889-40948fe3-768b-449b-af5e-2f5fd44e8982.png)
 ![ss2](https://user-images.githubusercontent.com/88117372/219718920-86fddc57-8471-4684-b4df-613b5fb4addc.png)
 
+### Data Flow Diagrams:
+![ss3](https://user-images.githubusercontent.com/88117372/219800385-6cb04d55-4990-4a6a-bac9-a577d2e05ad9.png)
+
+![ss4](https://user-images.githubusercontent.com/88117372/219800394-d4f4c9a3-0478-4700-98cd-768a6d0cbf81.png)
+
+
 ### Screenshots:
 ![firefox_vIfTWcgC53](https://user-images.githubusercontent.com/88117372/219719496-e429e5cb-2b90-4078-b0d6-3e6afe23e61f.png)
 
